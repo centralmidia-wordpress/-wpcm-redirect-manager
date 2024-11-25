@@ -38,7 +38,7 @@ Download:
 Faça o download do plugin diretamente do repositório do GitHub ou clone o repositório usando o comando:
 bash
 Copiar código
-git clone https://github.com/seu-usuario/wpcm-redirect-manager.git
+git clone https://github.com/centralmidia-wordpress/-wpcm-redirect-manager.git
 Estrutura de Pastas:
 
 Certifique-se de que a estrutura de pastas esteja organizada da seguinte forma:
@@ -108,6 +108,7 @@ wpcm-redirect-manager.php: O arquivo principal que contém o código funcional d
 Contribuição
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull requests no repositório do GitHub.
 
+Repositório GitHub: centralmidia-wordpress/-wpcm-redirect-manager
 Licença
 Este projeto está licenciado sob a Licença MIT.
 
